@@ -18,9 +18,9 @@ def run_server():
 threading.Thread(target=run_server, daemon=True).start()
 
 # ---------------- BOT CONFIG ----------------
-API_ID = 33846755
-API_HASH = "6bdfa52e67bc011d04333a420134c90f"
-BOT_TOKEN = "8525195990:AAGxzR4aNtfnQ0x1F4WvPJYy-pETh3upelg"
+API_ID = 12345678
+API_HASH = "uuuyyuuhhhh"
+BOT_TOKEN = "hgfchjgrugv5337jhhhhhhjjhhhhjhhhh"
 
 # ⚠️ CRITICAL FIX: We set parse_mode=ParseMode.HTML here to FORCE it globally
 app = Client(
